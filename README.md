@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi, I'm Koppala Naveen 👋
@@ -83,4 +82,3 @@
 ### ⭐ Code • Secure • Innovate
 
 </div>
-```
