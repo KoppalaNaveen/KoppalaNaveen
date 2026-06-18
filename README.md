@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -16,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 I am a passionate **Cyber Security Student** and **Software Developer** with a strong interest in building secure, scalable, and intelligent applications.
 
@@ -162,4 +161,3 @@ Python • Flask • Machine Learning • Cyber Security
 Thanks for visiting my profile! 🚀
 
 </div>
-```
