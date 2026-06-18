@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>Hi, I'm bigshot9490-boop! 👋</h1>
+  <h1>Hi, I'm Koppala Naveen! 👋</h1>
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F76767&center=true&vCenter=true&width=500&lines=Software+Developer;Building+the+future+with+code" alt="Typing SVG" />
   </p>
