@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Flutter+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects" />
 
-<img src="https://komarev.com/ghpvc/?username=bigshot9490-boop&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=KoppalaNaveen&style=flat-square&color=blue" />
 
 </div>
 
@@ -59,9 +59,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bigshot9490-boop)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/KoppalaNaveen)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bigshot9490-boop)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KoppalaNaveen)
 
 ---
 
@@ -69,9 +69,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bigshot9490-boop&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KoppalaNaveen&show_icons=true&theme=radical" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigshot9490-boop&layout=compact&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoppalaNaveen&layout=compact&theme=radical" />
 
 </div>
 
