@@ -28,17 +28,15 @@
 
 🎓 **Computer Science Engineering Student** specializing in Cyber Security
 
-🛡️ Interested in **Cyber Security, Security Automation & SOC Operations**
+📱 **Flutter Developer** focused on cross-platform application development
 
-📱 Building cross-platform applications using **Flutter & Firebase**
+🤖 **AI & Machine Learning Enthusiast**
 
-🤖 Exploring **Artificial Intelligence, Machine Learning & Graph Neural Networks**
+🛡️ Interested in **Cyber Security & Security Automation**
 
-⚙️ Developing backend systems using **Python, Flask & REST APIs**
+⚙️ Backend development using **Python, Flask & REST APIs**
 
-🚀 Focused on building **practical, real-world projects**
-
-💡 I enjoy combining **software development + AI + cyber security** to solve real-world problems.
+🚀 Building **real-world software and security solutions**
 
 ---
 
@@ -46,53 +44,19 @@
 
 ### 🔐 FinCell — Lost Device Tracking System
 
-A Flutter-based lost-device tracking and anti-theft system designed to help users locate and monitor lost devices.
-
-**Tech Stack:**  
-`Flutter` `Firebase` `Firestore` `Kotlin` `OpenStreetMap`
-
-**Key Features:**
-
-- 📍 Real-time device location tracking
-- 🔐 Unique device identification
-- 🚨 Lost Mode
-- 🗺️ Live location tracking
-- 📡 Background location tracking
-- 🔄 Firestore real-time synchronization
-- 🔑 Firebase Authentication
-- 📱 Android foreground service
+**Tech Stack:** `Flutter` `Firebase` `Firestore` `Kotlin` `OpenStreetMap`
 
 ---
 
-### 🧠 Uncertainty-Aware Multimodal MRI Fusion via Graph Neural Networks
+### 🧠 Uncertainty-Aware Multimodal MRI Fusion via Graph Neural Networks for Early Alzheimer's Disease Detection
 
-An AI/ML research project focused on early Alzheimer's disease detection using multimodal MRI data and Graph Neural Networks.
-
-**Tech Stack:**  
-`Python` `PyTorch` `PyTorch Geometric` `GNN` `MRI Processing`
-
-**Focus Areas:**
-
-- 🧠 MRI image processing
-- 🔗 Graph-based representation learning
-- 🤖 Graph Attention Networks
-- 📊 Multimodal feature fusion
-- 🎯 Uncertainty-aware prediction
+**Tech Stack:** `Python` `PyTorch` `PyTorch Geometric` `GNN` `MRI Processing`
 
 ---
 
 ### 🛡️ AI-Powered SOC Analyst
 
-An AI-driven security automation project designed to assist SOC analysts in security alert investigation and incident analysis.
-
-**Focus Areas:**
-
-- 🚨 Security alert analysis
-- 🔍 Log investigation
-- 🤖 AI-assisted threat analysis
-- 📊 Security event correlation
-- ⚡ Incident response automation
-- 🛡️ Security operations
+**Tech Stack:** `Python` `Flask` `REST APIs` `Machine Learning` `Cyber Security` `Security Automation`
 
 ---
 
@@ -151,14 +115,74 @@ An AI-driven security automation project designed to assist SOC analysts in secu
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Statistics
 
-```text
-Cyber Security
-Security Automation
-SOC & Threat Detection
-Flutter Development
-AI / Machine Learning
-Graph Neural Networks
-Backend API Development
-Cloud & Firebase
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=KoppalaNaveen&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoppalaNaveen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KoppalaNaveen&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoppalaNaveen&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KoppalaNaveen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/KoppalaNaveen">
+  <img src="https://img.shields.io/badge/GitHub-KoppalaNaveen-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://instagram.com/KoppalaNaveen">
+  <img src="https://img.shields.io/badge/Instagram-KoppalaNaveen-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@KoppalaNaveen">
+  <img src="https://img.shields.io/badge/YouTube-KoppalaNaveen-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build • Secure • Innovate
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=KoppalaNaveen&label=Profile+Views&color=00C2FF&style=flat-square" />
+
+</div>
