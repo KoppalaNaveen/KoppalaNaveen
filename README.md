@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Koppala Naveen
+#  Hi, I'm Koppala Naveen
 
 ### Cyber Security Student | Flutter Developer | AI & ML Enthusiast
 
@@ -24,45 +24,45 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-🎓 **Computer Science Engineering Student** specializing in Cyber Security
+ **Computer Science Engineering Student** specializing in Cyber Security
 
-📱 **Flutter Developer** focused on cross-platform application development
+ **Flutter Developer** focused on cross-platform application development
 
-🤖 **AI & Machine Learning Enthusiast**
+ **AI & Machine Learning Enthusiast**
 
-🛡️ Interested in **Cyber Security & Security Automation**
+ Interested in **Cyber Security & Security Automation**
 
-⚙️ Backend development using **Python, Flask & REST APIs**
+ Backend development using **Python, Flask & REST APIs**
 
-🚀 Building **real-world software and security solutions**
+ Building **real-world software and security solutions**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔐 FinCell — Lost Device Tracking System
+###  FinCell — Lost Device Tracking System
 
 **Tech Stack:** `Flutter` `Firebase` `Firestore` `Kotlin` `OpenStreetMap`
 
 ---
 
-### 🧠 Uncertainty-Aware Multimodal MRI Fusion via Graph Neural Networks for Early Alzheimer's Disease Detection
+###  Uncertainty-Aware Multimodal MRI Fusion via Graph Neural Networks for Early Alzheimer's Disease Detection
 
 **Tech Stack:** `Python` `PyTorch` `PyTorch Geometric` `GNN` `MRI Processing`
 
 ---
 
-### 🛡️ AI-Powered SOC Analyst
+###  AI-Powered SOC Analyst
 
-**Tech Stack:** `Python` `Flask` `REST APIs` `Machine Learning` `Cyber Security` `Security Automation`
+**Tech Stack:** `Python` `Flask` `REST APIs` `Machine Learning` `Security Automation`
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### 📱 App Development
+###  App Development
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -78,32 +78,14 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-### 🌐 Backend & APIs
+###  Backend & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-6A1B9A?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-
-### 🛡️ Cyber Security
-
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</p>
-
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -114,49 +96,7 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=KoppalaNaveen&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoppalaNaveen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KoppalaNaveen&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoppalaNaveen&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KoppalaNaveen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -179,9 +119,5 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoppalaNavee
 <div align="center">
 
 ### 💻 Build • Secure • Innovate
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=KoppalaNaveen&label=Profile+Views&color=00C2FF&style=flat-square" />
 
 </div>
